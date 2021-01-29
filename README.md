@@ -5,4 +5,4 @@
 often when a host shares a Zoom recording link with you, there is no simple way to download the recording. 
 this script will add a download link to any Zoom recording webpage so that you can easily download the video.
   
-to use this, just add the JS code to your preferred userscript plugin (i use [<a href="https://apps.apple.com/us/app/userscripts/id1463298887?mt=12" target="_blank">UserScripts for Safari</a>).
+to use this, just add the JS code to your preferred userscript plugin (i use [UserScripts for Safari](https://apps.apple.com/us/app/userscripts/id1463298887?mt=1)).
