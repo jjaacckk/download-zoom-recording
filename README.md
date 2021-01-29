@@ -1,4 +1,4 @@
-# download Zoom recording
+# download any Zoom recording
 
 ## a userscript that adds a "Download Recording" link to all Zoom recording webpages.
 
